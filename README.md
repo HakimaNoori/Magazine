@@ -1,2 +1,2 @@
 # Magazine
- https://hakimanoori.github.io/Magazine/
+https://hakimanoori.github.io/Magazine/
